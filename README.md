@@ -10,7 +10,7 @@
 **毕业设计所有选题地址：
 [https://github.com/ynwynw/allProject](https://github.com/ynwynw/allProject)**
 
-## 基于ssm+vue的医院门诊病历系统(源代码+数据库+11000字文档)626
+## 基于Springboot/ssm+vue的医院门诊病历系统(源代码+数据库+11000字文档)626
 
 ## 一、系统介绍
 本系统前后端分离
@@ -30,7 +30,7 @@
 ## 二、所用技术
 
 后端技术栈：
-
+- Springboot
 - ssm
 - mybatisPlus
 - mysql
